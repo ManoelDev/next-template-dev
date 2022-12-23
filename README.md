@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+**With Next.js 13 & React 18!**
+
+- [x] 📏 **ESLint** — Pluggable JavaScript linter
+- [x] 💖 **Prettier** — Opinionated Code Formatter
+- [x] 🐶 **StoryBook** — Use docimentation components
+- [x] 🐶 **Husky** — Use git hooks with ease
+- [x] 🚫 **lint-staged** — Run linters against staged git files
+- [ ] 🐙 **React Testing Library (RTL)** - Builds by adding APIs for working with React components
+- [ ] 🃏 **Jest** — A delightful JavaScript Testing Framework with a focus on simplicity
+- [ ] 🧑‍🔬 **Cypress** — Fast, easy and reliable testing for anything that runs in a browser.
+- [ ] 💅 **Styled Components (with SSR)** — Use the best bits of ES6 and CSS to style your apps without stress
+
+
 ## Getting Started
 
 First, run the development server:
